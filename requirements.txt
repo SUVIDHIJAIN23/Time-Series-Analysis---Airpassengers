@@ -9,3 +9,4 @@ statsmodels
 statsforecast
 mlforecast
 utilsforecast
+lightgbm
